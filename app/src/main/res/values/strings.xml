@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">Pulse</string>
+
+    <!-- Push -->
+    <string name="push_channel_id">pulse_push</string>
+    <string name="push_channel_name">Notifications</string>
+
+    <!-- Brand -->
+    <string name="brand">PULSE</string>
+
+    <!-- Onboarding -->
+    <string name="skip">Skip</string>
+    <string name="next">Next</string>
+    <string name="get_started">Get started</string>
+    <string name="onb_title_1">Train with intent</string>
+    <string name="onb_body_1">Pick a goal and Pulse builds a focused daily session designed around exactly what you want.</string>
+    <string name="onb_title_2">Check off every set</string>
+    <string name="onb_body_2">Tap exercises as you finish them. Your session stays in sync, set by set, no clutter.</string>
+    <string name="onb_title_3">Build your streak</string>
+    <string name="onb_body_3">Earn points for every rep and keep your daily streak alive. Momentum you can see.</string>
+
+    <!-- Goals -->
+    <string name="step_1">Step 1</string>
+    <string name="choose_your_goal">Choose your goal</string>
+    <string name="goals_subtitle">This shapes your daily session. Switch it anytime.</string>
+    <string name="goal_shred">Shred</string>
+    <string name="goal_shred_sub">Burn fat · stay lean</string>
+    <string name="goal_build">Build Muscle</string>
+    <string name="goal_build_sub">Strength · hypertrophy</string>
+    <string name="goal_maintain">Stay Active</string>
+    <string name="goal_maintain_sub">Balanced · sustainable</string>
+
+    <!-- Today -->
+    <string name="today">Today</string>
+    <string name="good_morning">Good morning</string>
+    <string name="good_afternoon">Good afternoon</string>
+    <string name="good_evening">Good evening</string>
+    <string name="done">done</string>
+    <string name="pts_today">pts today</string>
+    <string name="todays_session">Today\'s session</string>
+    <string name="headline_ready">Ready to move</string>
+    <string name="headline_going">Keep it going</string>
+    <string name="headline_crushed">Crushed it</string>
+    <string name="exercises_complete">%1$d of %2$d exercises complete</string>
+    <string name="session_complete">Session complete</string>
+    <string name="session_complete_sub">+%1$d bonus · streak extended to %2$d days</string>
+
+    <!-- Progress -->
+    <string name="progress">Progress</string>
+    <string name="total_score">Total score</string>
+    <string name="pts">pts</string>
+    <string name="day_streak">Day streak</string>
+    <string name="workouts">Workouts</string>
+    <string name="today_stat">Today</string>
+    <string name="this_week">This week</string>
+    <string name="current_goal">Current goal</string>
+    <string name="change">Change</string>
+    <string name="reset_all">Reset all progress</string>
+
+    <!-- Bottom nav -->
+    <string name="nav_today">Today</string>
+    <string name="nav_progress">Progress</string>
+    <string name="nav_goal">Goal</string>
+</resources>

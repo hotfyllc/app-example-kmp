@@ -1,0 +1,19 @@
+# Gradle / build output (matches build/ and .gradle/ at ANY depth, incl. app/build/)
+.gradle/
+build/
+/captures
+.externalNativeBuild
+.cxx
+
+# Local SDK / machine-specific config — never commit
+local.properties
+
+# Android Studio / IntelliJ
+*.iml
+.idea/
+
+# OS
+.DS_Store
+
+# Kotlin tooling (daemon logs/sessions)
+.kotlin/
