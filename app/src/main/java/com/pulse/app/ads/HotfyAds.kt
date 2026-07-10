@@ -50,6 +50,11 @@ suspend fun initHotfy(context: Context, debug: Boolean) {
             httpInterceptor = DebugConsole.networkInterceptor(),
         ),
     )
+
+    // Atribuição (Google gclid, Meta, UTMs) é capturada do Install Referrer e
+    // enviada pro CDP automaticamente no init (sdk >= 0.4.0) — não precisa chamar
+    // captureAttribution. Os usuários já entram com a fonte certa.
+
     Hotfy.startAdPreload()
 }
 
